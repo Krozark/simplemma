@@ -349,7 +349,7 @@ Available languages (2022-01-20):
 | `et` | Estonian | 119 | | low coverage
 | `fa` | Persian | 12 | | experimental
 | `fi` | Finnish | 3,199 | | see [this benchmark](https://github.com/aajanki/finnish-pos-accuracy)
-| `fr` | French | 217 | 0.94 | on UD FR-GSD
+| `fr` | French | 471 | 0.94 | on UD FR-GSD
 | `ga` | Irish | 372
 | `gd` | Gaelic | 48
 | `gl` | Galician | 384
